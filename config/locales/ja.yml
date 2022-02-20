@@ -1,0 +1,10 @@
+ja:
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            name:
+              blank: "Nameが空だった場合の日本語のエラーメッセージを入れる"
+            age:
+              blank: "Ageが空だった場合の日本語のエラーメッセージを入れる" 
