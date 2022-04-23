@@ -1,1 +1,8 @@
-@import 'bootstrap/scss/bootstrap';
+// bootstrapを読み込む
+@import "bootstrap/scss/bootstrap";
+
+// FontAwesomeを読み込む
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+
+// 個別ファイル読み込み
+@import "custom"
